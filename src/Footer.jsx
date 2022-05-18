@@ -36,6 +36,7 @@ export function  Footer() {
                     <li>Julio Cesar Fuelagan Carlosama</li>
                     <li>Nicolas Alonso Suarez Rodriguez</li>
                     <li>Luis Felipe Pulgar</li>
+                    <li>Mateo Ramirez Maringit </li>
                 <center>
                     <button type="button" class="btn btn-outline-success">Success</button>
                 </center>
