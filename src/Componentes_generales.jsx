@@ -2,6 +2,7 @@ import React from "react";
 import {Formulario} from './Formulario';
 import {Tabla} from "./Tabla";
 import {NavBar} from "./NavBar";
+import { Footer } from "./Footer";
 
 
 export function Aplicacion(){
@@ -12,6 +13,7 @@ export function Aplicacion(){
             <Formulario/>
             <Tabla/>
             <Tabla/>
+            <Footer/>
         </React.Fragment>
     )
 }
