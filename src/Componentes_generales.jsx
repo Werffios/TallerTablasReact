@@ -10,6 +10,8 @@ export function Aplicacion(){
             <NavBar/>
             <Tabla/>
             <Formulario/>
+            <Tabla/>
+            <Tabla/>
         </React.Fragment>
     )
 }
