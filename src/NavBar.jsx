@@ -10,5 +10,6 @@ export function  NavBar() {
                 <a className="navbar-brand" href="#">Pricing</a>
             </div>
         </nav>
+
     )
 }
