@@ -7,11 +7,11 @@ export function  Formulario() {
                 <div className="row justify-content-evenly">
                     <div className="col-4">
                         <label htmlFor="nameinput">Ingrese su nombre</label>
-                        <input type="email" className="form-control" placeholder="Enter name" id="nameinput"/>
+                        <input type="text" className="form-control" placeholder="Enter name" id="nameinput" required/>
                     </div>
                     <div className="col-4">
                         <label htmlFor="apellidoinput">Ingrese su apellido</label>
-                        <input type="email" className="form-control" placeholder="Enter apellido" id="apellidoinput"/>
+                        <input type="text" className="form-control" placeholder="Enter apellido" id="apellidoinput" required/>
                     </div>
                 </div>
             </div>

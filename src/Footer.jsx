@@ -2,8 +2,8 @@ import React from "react";
 
 export function  Footer() {
     const myFunction = () => {
-    alert("Boton funciona");
-  };
+        alert("Boton funciona");
+    };
     return(
         <footer>
            <center>
