@@ -11,7 +11,7 @@ export function  Formulario() {
                     </div>
                     <div className="col-4">
                         <label htmlFor="apellidoinput">Ingrese su apellido</label>
-                        <input type="email" class="form-control" placeholder="Enter apellido" id="apellidoinput"/>
+                        <input type="email" className="form-control" placeholder="Enter apellido" id="apellidoinput"/>
                     </div>
                 </div>
             </div>
